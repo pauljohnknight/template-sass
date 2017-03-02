@@ -1,3 +1,11 @@
+.myfooter {
+  background-color: red;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  margin: auto; }
+
 body {
   background: #e6e6e6; }
 
@@ -16,7 +24,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 5px solid black; }
+  border: 5px solid #ff3366; }
 
 #next {
   display: block;
