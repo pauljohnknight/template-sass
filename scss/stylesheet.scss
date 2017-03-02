@@ -1,0 +1,23 @@
+@import "variables";
+
+
+body {background: #e6e6e6;
+}
+
+#testdiv {
+margin-top: 30px;
+padding: 20px;
+font-family: arial;
+box-sizing: border-box;
+background-color: blue;
+color: white;
+height: 350px;
+width: 300px !important;
+display: block;
+margin-bottom: 30px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 5px solid yellow;
+}
