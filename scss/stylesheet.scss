@@ -19,5 +19,14 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-border: 5px solid yellow;
+border: 5px solid black;
+}
+
+
+#next {
+  display: block;
+  display: flex;
+  p {display: flex;}
+    h1 {color: #000;}
+
 }

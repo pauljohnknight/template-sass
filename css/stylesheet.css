@@ -16,4 +16,12 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 5px solid yellow; }
+  border: 5px solid black; }
+
+#next {
+  display: block;
+  display: flex; }
+  #next p {
+    display: flex; }
+  #next h1 {
+    color: #000; }
